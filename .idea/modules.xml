@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Campus_Records_Manager.iml" filepath="$PROJECT_DIR$/.idea/Campus_Records_Manager.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/CCRM_CPP.iml" filepath="$PROJECT_DIR$/.idea/CCRM_CPP.iml" />
+>>>>>>> 171261812b71b9e7dbfdcbbc12a3b2b27b3cad2d
     </modules>
   </component>
 </project>
