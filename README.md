@@ -12,8 +12,6 @@ The project demonstrates practical implementation of **Object-Oriented Programmi
 - Academic record and transcript management
 - Create, read, update, and delete (CRUD) operations
 - Persistent data storage using file handling
-- Data import/export
-- Backup functionality
 - Command-line interface
 
 ## Technologies Used
