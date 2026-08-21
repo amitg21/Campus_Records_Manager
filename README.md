@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM)
+# Campus Record Manager
 
 A C++ command-line application designed to manage academic records, including students, courses, enrollments, grades, and transcripts.
 
