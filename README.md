@@ -31,12 +31,10 @@ CCRM/
 ├── src/                 # Source files
 ├── include/             # Header files
 ├── data/                # Application data files
-├── backup/              # Backup files
 ├── README.md
 └── ...
 ```
 
-> The exact structure may vary depending on the current implementation of the project.
 
 ## Core Concepts
 
